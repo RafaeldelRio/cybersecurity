@@ -57,3 +57,5 @@ El -n es fundamental para no añadir un salto de línea en el echo y que el resu
 Por otro lado, es posible que rockyou se nos haga una wordlist demasiado amplia. Si conocemos la longitud exacta de caracteres que va a tener la palabra original, podemos aplicar un patrón regex a rockyou para filtrar por las palabras que tengan ese número de caracteres exacto. Por ejemplo, para generar una nueva wordlist que tenga todas las palabras de rockyou de 6 caracteres:
 
 `grep '^......$' /usr/share/wordlists/rockyou.txt > rockyou-6.txt`
+
+Antes de terminar quería advertir sobre el uso de -f o --force con hashcat. Esa flag debe usarse con cuidado y solo si se tiene claro qué se está haciendo.
