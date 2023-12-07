@@ -1,5 +1,5 @@
 ---
-description: Aquí voy a poner cosas sobre crackear hashes
+description: En este apartado se van a describir métodos y técnicas para crackear hashes.
 ---
 
 # Hashes
