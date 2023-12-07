@@ -1,10 +1,4 @@
----
-description: >-
-  Este proyecto está orientado a compartir información sobre las herramientas y
-  retos de ciberseguridad.
----
-
-# readme.md
+# Cybersecurity tools & snippets
 
 ## Qué es este proyecto
 
