@@ -1,4 +1,4 @@
 # Table of contents
 
-* [README](README.md)
+* [readme.md](README.md)
 * [Hashes](hashes.md)
