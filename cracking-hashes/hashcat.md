@@ -1,5 +1,5 @@
 ---
-description: Página en la que se describe el uso de la herramienta hashcat
+description: Hashcat es una herramienta para crackear hashes
 ---
 
 # Hashcat
@@ -59,3 +59,8 @@ Por otro lado, es posible que rockyou se nos haga una wordlist demasiado amplia.
 `grep '^......$' /usr/share/wordlists/rockyou.txt > rockyou-6.txt`
 
 Antes de terminar quería advertir sobre el uso de -f o --force con hashcat. Esa flag debe usarse con cuidado y solo si se tiene claro qué se está haciendo.
+
+### Máquinas para practicar
+
+* [https://tryhackme.com/room/crackthehash](https://tryhackme.com/room/crackthehash)
+* [https://tryhackme.com/room/crackthehashlevel2](https://tryhackme.com/room/crackthehashlevel2)
