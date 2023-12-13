@@ -7,5 +7,7 @@
   * [Haiti](cracking-hashes/haiti.md)
   * [wordlistctl](cracking-hashes/wordlistctl.md)
   * [CEWL](cracking-hashes/cewl.md)
+* [Post-explotación](post-explotacion/README.md)
+  * [msfvenom](post-explotacion/msfvenom.md)
 * [Análisis de logs](analisis-de-logs.md)
 * [Webs para aprender más](webs-para-aprender-mas.md)
