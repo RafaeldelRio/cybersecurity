@@ -12,8 +12,16 @@ Para crear reglas personalizadas para john the ripper, crearlas en un archivo /u
 
 ```
 // En el archivo /usr/share/john/john-local.conf
-[List.Rules:THM01]
+[List.Rules:11]
 $[0-9]$[0-9]
+// Para usar las palabras del revés
+[List.Rules:12]
+r
+// Para usar repeticiones de palabras
+[List.Rules:13]
+d
+dd
+ddd
 ```
 
 Si no se sabe dónde está la instalación de john the ripper, se puede usar el comando:
