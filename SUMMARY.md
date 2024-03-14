@@ -12,3 +12,5 @@
 * [Análisis de logs](analisis-de-logs.md)
 * [Webs para aprender más](webs-para-aprender-mas.md)
 * [Análisis de archivos (hash)](analisis-de-archivos-hash.md)
+* [Hacking web](hacking-web/README.md)
+  * [Hydra](hacking-web/hydra.md)
